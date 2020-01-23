@@ -1,7 +1,7 @@
 # Switch-case statement in Python 
 Implementation of switch-case statement in Python using decorators 
 
-The idea of switch-case statement support was realized without changing the inner structure of Python language, but was based on using the capabilities of decorators. 
+The idea of switch-case statement support was realized without changing the inner structure of Python language, but was based on the functionality of decorators. 
 
 ## Switch-case in docstring of function
 
